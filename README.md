@@ -11,6 +11,7 @@ MNIST classification using PyTorch MLP
 ## 使用方法
 ```bash
 python Mnist_MLP.py
+```
 
 ## 运行结果
 ![Training Log](result/train_log.png)
